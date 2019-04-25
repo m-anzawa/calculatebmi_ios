@@ -96,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				23573F7E2227BF510097A869 /* calculateBMI */,
+				23573F932227BF530097A869 /* calculateBMITests */,
 				23573F9E2227BF540097A869 /* calculateBMIUITests */,
 				23573F7D2227BF510097A869 /* Products */,
 			);
@@ -143,7 +144,6 @@
 		23573F9E2227BF540097A869 /* calculateBMIUITests */ = {
 			isa = PBXGroup;
 			children = (
-				23573F932227BF530097A869 /* calculateBMITests */,
 				23573F9F2227BF540097A869 /* calculateBMIUITests.swift */,
 				23573FA12227BF540097A869 /* Info.plist */,
 			);
@@ -493,16 +493,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 3VKGQ23J76;
 				INFOPLIST_FILE = calculateBMI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ChangeLayout.calculateBMI;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.cries.calculateBMI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = cries_wildcard;
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -513,16 +513,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 3VKGQ23J76;
 				INFOPLIST_FILE = calculateBMI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ChangeLayout.calculateBMI;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.cries.calculateBMI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = cries_wildcard;
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
