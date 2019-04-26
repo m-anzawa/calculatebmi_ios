@@ -1,0 +1,69 @@
+
+/* Class = "UIButton"; normalTitle = "削除"; ObjectID = "05f-iF-pds"; */
+"05f-iF-pds.normalTitle" = "削除";
+
+/* Class = "UILabel"; text = "29日"; ObjectID = "1rV-Ry-806"; */
+"1rV-Ry-806.text" = "29日";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2I3-EH-yrs"; */
+"2I3-EH-yrs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "BMIを計算する"; ObjectID = "3k2-Jq-LXA"; */
+"3k2-Jq-LXA.normalTitle" = "BMIを計算する";
+
+/* Class = "UILabel"; text = "身長:"; ObjectID = "5WA-R7-oYx"; */
+"5WA-R7-oYx.text" = "身長:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "B72-2w-V4o"; */
+"B72-2w-V4o.text" = "Label";
+
+/* Class = "UILabel"; text = "身長"; ObjectID = "E1B-az-K2u"; */
+"E1B-az-K2u.text" = "身長";
+
+/* Class = "UINavigationItem"; title = "履歴"; ObjectID = "E5S-Of-d5l"; */
+"E5S-Of-d5l.title" = "履歴";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nag-gI-CY9"; */
+"Nag-gI-CY9.text" = "Label";
+
+/* Class = "UILabel"; text = "身長と体重を入力してください"; ObjectID = "OwA-6c-vxL"; */
+"OwA-6c-vxL.text" = "身長と体重を入力してください";
+
+/* Class = "UILabel"; text = "でした"; ObjectID = "V36-MJ-SN3"; */
+"V36-MJ-SN3.text" = "でした";
+
+/* Class = "UIButton"; normalTitle = "保存する"; ObjectID = "cBg-Rh-QVg"; */
+"cBg-Rh-QVg.normalTitle" = "保存する";
+
+/* Class = "UINavigationItem"; title = "入力"; ObjectID = "cXc-0d-EMx"; */
+"cXc-0d-EMx.title" = "入力";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dfk-Y2-igQ"; */
+"dfk-Y2-igQ.text" = "Label";
+
+/* Class = "UILabel"; text = "kg"; ObjectID = "eb8-sr-TLf"; */
+"eb8-sr-TLf.text" = "kg";
+
+/* Class = "UILabel"; text = "cm"; ObjectID = "ftu-Jm-4tx"; */
+"ftu-Jm-4tx.text" = "cm";
+
+/* Class = "UITabBarItem"; title = "履歴"; ObjectID = "gKl-pk-iiQ"; */
+"gKl-pk-iiQ.title" = "履歴";
+
+/* Class = "UILabel"; text = "BMI:"; ObjectID = "jtb-eI-RTt"; */
+"jtb-eI-RTt.text" = "BMI:";
+
+/* Class = "UILabel"; text = "体重"; ObjectID = "jxF-YK-rAU"; */
+"jxF-YK-rAU.text" = "体重";
+
+/* Class = "UITabBarItem"; title = "入力"; ObjectID = "mtY-gD-PV8"; */
+"mtY-gD-PV8.title" = "入力";
+
+/* Class = "UILabel"; text = "体重:"; ObjectID = "n28-oY-Evv"; */
+"n28-oY-Evv.text" = "体重:";
+
+/* Class = "UILabel"; text = "あなたのBMIは"; ObjectID = "tB1-qZ-9zZ"; */
+"tB1-qZ-9zZ.text" = "あなたのBMIは";
+
+/* Class = "UILabel"; text = "999.99"; ObjectID = "yFq-al-pa8"; */
+"yFq-al-pa8.text" = "999.99";

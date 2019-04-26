@@ -1,0 +1,6 @@
+framework module Pods_calculateBMIUITests {
+  umbrella header "Pods-calculateBMIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
